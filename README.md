@@ -10,12 +10,12 @@
  
  * 判断大小端
   
-  C:
-  [BigOrLittleEndian.c](https://github.com/whitejoce/Pwn/blob/main/About_Machine/BigOrLittleEndian.c)
-  
-  Python:
-  
-  ```
-   import sys
-   print(sys.byteorder)
-  ```
+      C:
+       [BigOrLittleEndian.c](https://github.com/whitejoce/Pwn/blob/main/About_Machine/BigOrLittleEndian.c)
+
+      Python:
+
+      ```
+       import sys
+       print(sys.byteorder)
+      ```
