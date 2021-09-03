@@ -10,8 +10,8 @@
  
  * 判断大小端
   
-      C(nginx源码):
-       [BigOrLittleEndian.c](https://github.com/whitejoce/Pwn/blob/main/About_Machine/BigOrLittleEndian.c)
+      C:
+       [BigOrLittleEndian.c](https://github.com/whitejoce/Pwn/blob/main/About_Machine/BigOrLittleEndian.c)(nginx 源码)
 
       Python:
 
