@@ -7,10 +7,10 @@ int main(){
 
     p = (char *) &i;
     if (*p == 0x44) { 
-        printf("Little endian\n");
+        printf("Little Endian\n");
     }
     else {
-        printf("Big endian\n");
+        printf("Big Endian\n");
     }
     return 0;
 }
