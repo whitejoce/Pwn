@@ -15,7 +15,7 @@
   
   Python:
   
-  `
+  ```
    import sys
    print(sys.byteorder)
-  `
+  ```
